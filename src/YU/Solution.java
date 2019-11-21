@@ -1,0 +1,5 @@
+package YU;
+
+class Solution {
+
+}

@@ -1,0 +1,5 @@
+package JO;
+
+class Solution {
+
+}

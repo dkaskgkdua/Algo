@@ -1,0 +1,5 @@
+package KIM;
+
+class Solution {
+
+}
