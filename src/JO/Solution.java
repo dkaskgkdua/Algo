@@ -3,6 +3,6 @@ package JO;
 class Solution {
 	public int solution() {
 		
-		return 1;
+		return 2;
 	}
 }
