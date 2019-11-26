@@ -2,6 +2,11 @@ package kr.co.programmers.level2.lessons42584;
 
 import java.util.Arrays;
 
+/**
+ * 
+ * @author YuZi
+ *
+ */
 class Solution {
 	public int[] solution(int[] prices) {
 		int[] answer = new int[prices.length];

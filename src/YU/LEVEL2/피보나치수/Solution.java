@@ -1,5 +1,11 @@
 package kr.co.programmers.level2.lessons12945;
 
+/**
+ * Memoization!
+ * 
+ * @author YuZi
+ *
+ */
 class Solution {
 	int[] data = new int[100_101];
 

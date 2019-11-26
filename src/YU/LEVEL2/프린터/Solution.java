@@ -6,16 +6,19 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * list - priorities를 List로 변환
+ * loc 	- location의 위치를 표시하는 List
+ * check- 0번째 원소가 가장 큰 경우, 그 원소를 제거하기 위한 장치
+ * 
+ * @author YuZi
+ *
+ */
 class Solution {
 	public int solution(int[] priorities, int location) {
 		List<Integer> list = Arrays.stream(priorities).boxed().collect(Collectors.toList());
 		List<Integer> loc = Arrays.stream(new int[priorities.length]).boxed().collect(Collectors.toList());
-		loc.set(location, 1);
 		while (!list.isEmpty()) {
-
-			System.out.println("list : " + list.toString());
-			System.out.println("loc : " + loc.toString());
-
 			boolean check = true;
 			for (int j = 0; j < list.size(); j++) {
 				if (list.get(0) < list.get(j)) {
