@@ -1,5 +1,0 @@
-package SONG;
-
-class Solution {
-
-}
