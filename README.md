@@ -38,6 +38,5 @@
 * [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
 * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
 * [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585)
-* 2019-12-05
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
