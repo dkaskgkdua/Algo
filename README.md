@@ -16,6 +16,13 @@
     * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
     * [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
     * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+* 2019-12-03
+    * [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+    * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+    * [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585)
+* 2019-12-05
+    * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+    * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
 
 # 코드
 ## LEVEL 2
@@ -28,3 +35,9 @@
 * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [KIM](./src/KIM/LEVEL2/위장/Solution.java)
 * [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) - [KIM](./src/KIM/LEVEL2/멀쩡한사각형/Solution.java)
 * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) - [KIM](./src/KIM/LEVEL2/다리를지나는트럭/Solution2.java)
+* [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+* [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+* [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585)
+* 2019-12-05
+* [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+* [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
