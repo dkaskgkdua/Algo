@@ -1,5 +1,5 @@
 package kr.co.programmers.level2.lessons42626;
-/* È¿À²¼º Åë°ú ¾È ÇÏ´Â ÄÚµå */
+/* íš¨ìœ¨ì„± 0ì  */
 
 import java.util.Arrays;
 class Solution {

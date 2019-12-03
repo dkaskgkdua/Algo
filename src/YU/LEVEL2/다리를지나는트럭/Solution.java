@@ -1,28 +1,24 @@
 package kr.co.programmers.level2.lessons42583;
-/* ¹Ì¿Ï¼º ÄÚµå - ½ÇÇà X */
 
-import java.util.Queue;
-import java.util.Arrays;
-import java.util.Colletors;
-import java.util.LinkedList;
+import java.util.*;
+import java.util.stream.Collectors;
 class Solution {
     public int solution(int bridge_length, int weight, int[] truck_weights) {
         int time = 0, truck_on_bridge = 0, truck = 0;
         Queue<Integer> bridge = new LinkedList<>();
-        Queue<Integer> truckWeigths = Arrays.stream(truck_weights)
-            .boxed()
-            .collect(Colletors.toCollection(LinkedList::new));
-        // Áö³ª¿Â Æ®·°ÀÇ ¼ö°¡ Æ®·°ÀÇ ¼öº¸´Ù ÀÛÀº °æ¿ì - true
-        while(truck <= truck_weights.length) {
+        Queue<Integer> truckWeigths =  Arrays.stream(truck_weights).boxed().collect(Collectors.toCollection(LinkedList::new));
+        for(int i=0; i<bridge_length; i++) bridge.offer(0);
+        // íŠ¸ëŸ­ì´ ë‹¤ ì§€ë‚˜ê°ˆ ë•Œê¹Œì§€
+        while(truck != truck_weights.length) {
             time++;
-            // Æ®·°ÀÌ ´Ù¸®¸¦ Áö³ª°¡¸é ¹«°Ô¿¡¼­ »©ÁØ´Ù.
-            int temp = bridge.poll();
-            if(temp!=0) {
+            // íŠ¸ëŸ­ì´ ë‹¤ë¦¬ë¥¼ ì§€ë‚˜ê°€ë©´ ë¬´ê²Œì—ì„œ ë¹¼ì¤€ë‹¤.
+            int passedTruck = bridge.poll();
+            if(passedTruck!=0) {
                 truck++;
-                truck_on_bridge -= temp;
+                truck_on_bridge -= passedTruck;
             }
-            // ´Ù¸® À§ÀÇ Æ®·°ÀÇ ¹«°Ô°¡ weightº¸´Ù ÀÛÀº °æ¿ì
-            if(truckWeigths.peek() < weight) {
+            // ë‹¤ë¦¬ ìœ„ì˜ íŠ¸ëŸ­ì˜ ë¬´ê²Œì—ì„œ ë‹¤ìŒ íŠ¸ëŸ­ì˜ ë¬´ê²Œì˜ í•©ì´ weightë³´ë‹¤ ìž‘ì€ ê²½ìš°
+            if(truckWeigths.size()!=0 && truck_on_bridge+truckWeigths.peek()<=weight) {
                 bridge.offer(truckWeigths.peek());
                 truck_on_bridge += truckWeigths.poll();
             } else {
