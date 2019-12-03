@@ -1,5 +1,5 @@
 package kr.co.programmers.level2.lessons42586;
-
+/* 20점 */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Queue;
