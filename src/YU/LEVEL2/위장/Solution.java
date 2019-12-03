@@ -1,5 +1,5 @@
 package kr.co.programmers.level2.lessons42578;
-
+// HashMap을 통해 같은 항목인 경우, num++
 import java.util.Iterator;
 import java.util.HashMap;
 import java.util.Map;
