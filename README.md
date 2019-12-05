@@ -41,4 +41,4 @@
 * [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) - [KIM](./src/KIM/LEVEL2/쇠막대기/Solution.java) [YU](./src/YU/LEVEL2/쇠막대기/Solution.java)
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) - [KIM](./src/KIM/LEVEL2/오픈채팅방/Solution.java) [YU](./src/YU/LEVEL2/오픈채팅방/Solution.java)
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) - [KIM](./src/KIM/LEVEL2/올바른괄호/Solution.java) [YU](./src/YU/LEVEL2/올바른괄호/Solution.java)
-* [라면 공장](https://programmers.co.kr/learn/courses/30/lessons/42629)
+* [라면 공장](https://programmers.co.kr/learn/courses/30/lessons/42629) - [KIM](./src/KIM/LEVEL2/라면공장/Solution2.java)
