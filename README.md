@@ -24,7 +24,7 @@
     * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
     * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
     * [라면 공장](https://programmers.co.kr/learn/courses/30/lessons/42629)
-* 2019-12-10
+* 2019-12-10 -> 진행중
     * [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
     * [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
     * [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
