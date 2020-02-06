@@ -13,7 +13,7 @@
     * 다른 분이 잘 찾아 볼수 있게 개인이 선호하는 방식으로 코드 정리.
     * 2020-02-06 저녁 9시에 2020-02-15에 스터디 할 문제 선택.
 * #3-1일정 2020-02-07 ~ 2020-02-15
-* [Lv2 [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687), [Lv2폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845), [짝지어 제거하기 ](https://programmers.co.kr/learn/courses/30/lessons/12973), [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
+* [Lv2 [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687), [Lv2폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845), [Lv2 짝지어 제거하기 ](https://programmers.co.kr/learn/courses/30/lessons/12973), [Lv2 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
 * Info
     * [LeetCode](https://leetcode.com/)
     * [뱍준](https://www.acmicpc.net/)
@@ -52,4 +52,4 @@
 
 ## 3기
 * #3-1 2020-02-07 ~ 2020-02-15
-    * [Lv2 [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687), [Lv2폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845), [짝지어 제거하기 ](https://programmers.co.kr/learn/courses/30/lessons/12973), [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
+    * [Lv2 [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687), [Lv2 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845), [Lv2 짝지어 제거하기 ](https://programmers.co.kr/learn/courses/30/lessons/12973), [Lv2 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
