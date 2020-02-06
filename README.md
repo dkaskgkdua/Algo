@@ -6,13 +6,13 @@
 # *현재 진행 상황
 
 ## 3기 진행중
-* (L1##########)(L2########..)(L3..........)(L4..........)(L5..........)
+* Lv1########## - Lv2########00 - Lv30000000000 - Lv40000000000 - Lv50000000000
 * New
     * 새로운 스터디 멤버 김효진씨와 함께 Algo 3기 시작.
     * 메인에 있는 '코드 링크' 부분을 삭제.
     * 다른 분이 잘 찾아 볼수 있게 개인이 선호하는 방식으로 코드 정리.
-    * 2020-02-15에 스터디할 문제 선택.
-* #3-1 2020-02-07 ~ 2020-02-15
+    * 2020-02-06 저녁 9시에 2020-02-15에 스터디 할 문제 선택.
+* #3-1일정 2020-02-07 ~ 2020-02-15
 ---
 
 
@@ -42,7 +42,9 @@
 ......
 
 * 2020-02-01
-    * [LEVEL2 [1차]뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677), [LEVEL2 [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680), [LEVEL2 [3차]파일명 정리](https://programmers.co.kr/learn/courses/30/lessons/17686)
+    * [Lv2 [1차]뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+    * [Lv2 [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+    * [Lv2 [3차]파일명 정리](https://programmers.co.kr/learn/courses/30/lessons/17686)
 ---
 
 ## 3기
