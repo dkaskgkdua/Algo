@@ -42,9 +42,7 @@
 ......
 
 * 2020-02-01
-    * [Lv2 [1차]뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
-    * [Lv2 [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
-    * [Lv2 [3차]파일명 정리](https://programmers.co.kr/learn/courses/30/lessons/17686)
+    * [Lv2 [1차]뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677), [Lv2 [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680), [Lv2 [3차]파일명 정리](https://programmers.co.kr/learn/courses/30/lessons/17686)
 ---
 
 ## 3기

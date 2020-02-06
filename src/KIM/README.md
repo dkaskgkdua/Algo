@@ -1,5 +1,4 @@
 # CODE
-## LEVEL 2
 * [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) - [CODE1](./LEVEL2/프린터/Solution.java),  [CODE2](./LEVEL2/프린터/Solution2.java)
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) - [CODE](./LEVEL2/피보나치수/Solution.java)
 * [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) - [CODE](./LEVEL2/탑/Solution.java)
@@ -19,3 +18,10 @@
 * [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - [CODE](./LEVEL2/타겟넘버/Solution.java)
 * [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) - [CODE](./LEVEL2/카카오프렌즈컬러링북/Solution.java)
 * [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746) - [CODE](./LEVEL2/가잗큰수/Solution.java)
+
+## 2-4 2020-02-01
+* [Lv2 [1차]뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - [CODE](./LEVEL2/[1차]뉴스 클러스터링/Solution.java)
+* [Lv2 [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) - [CODE](./LEVEL2/[1차] 캐시/Solution.java)
+* [Lv2 [3차]파일명 정리](https://programmers.co.kr/learn/courses/30/lessons/17686) - [CODE](./LEVEL2/[3차]파일명 정리/Solution.java)
+
+## 3-1 2020-05-15
