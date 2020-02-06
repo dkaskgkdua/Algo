@@ -24,4 +24,4 @@
 * [Lv2 [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) - [CODE](./LEVEL2/\[1차\] 캐시/Solution.java)
 * [Lv2 [3차]파일명 정리](https://programmers.co.kr/learn/courses/30/lessons/17686) - [CODE](./LEVEL2/\[3차\]파일명 정리/Solution.java)
 
-## 3-1 2020-05-15
+## 3-1 2020-02-15
