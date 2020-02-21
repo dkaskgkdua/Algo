@@ -12,10 +12,10 @@
     * github 자료 공유 - 현재 대로 코드 공유 vs 웹사이트 코드 이용 vs 기타 의견
 
 * 3-2일정 2020-02-16 ~ 2020-02-22 : 2020-02-22 토 AM 90:00 온라인
-    * [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
-    * [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
-    * [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
-    * [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
+    * [Lv2 [3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+    * [Lv2 JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
+    * [Lv2 [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+    * [Lv2 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
 ---
 
 
