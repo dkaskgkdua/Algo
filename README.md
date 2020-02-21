@@ -6,20 +6,17 @@
 # *현재 진행 상황
 
 ## 3기 진행중
-* Lv1########## - Lv2########00 - Lv30000000000 - Lv40000000000 - Lv50000000000
-* New
-    * 새로운 스터디 멤버 김효진씨와 함께 Algo 3기 시작.
-    * 메인에 있는 '코드 링크' 부분을 삭제.
-    * 다른 분이 잘 찾아 볼수 있게 개인이 선호하는 방식으로 코드 정리.
-    * 2020-02-06 저녁 9시에 2020-02-15에 스터디 할 문제 선택.
-* #3-1일정 2020-02-07 ~ 2020-02-15
-* [Lv2 [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687), [Lv2폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845), [Lv2 짝지어 제거하기 ](https://programmers.co.kr/learn/courses/30/lessons/12973), [Lv2 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
-* Info
-    * [LeetCode](https://leetcode.com/)
-    * [뱍준](https://www.acmicpc.net/)
-    * [알고리즘 해결전략 - 종만북](http://www.yes24.com/Product/Goods/8006522?scode=029)
----
+* Lv1########## - Lv2#########0 - Lv30000000000 - Lv40000000000 - Lv50000000000
 
+* 투표 
+    * github 자료 공유 - 현재 대로 코드 공유 vs 웹사이트 코드 이용 vs 기타 의견
+
+* 3-2일정 2020-02-16 ~ 2020-02-22 : 2020-02-22 토 AM 90:00 온라인
+    * [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+    * [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
+    * [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+    * [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
+---
 
 
 # 지난 일정
@@ -51,5 +48,13 @@
 ---
 
 ## 3기
-* #3-1 2020-02-07 ~ 2020-02-15
+* 3-1 2020-02-07 ~ 2020-02-15
     * [Lv2 [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687), [Lv2 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845), [Lv2 짝지어 제거하기 ](https://programmers.co.kr/learn/courses/30/lessons/12973), [Lv2 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
+    * 새로운 스터디 멤버 김효진씨와 함께 Algo 3기 시작.
+    * 메인에 있는 '코드 링크' 부분을 삭제.
+    * 다른 분이 잘 찾아 볼수 있게 개인이 선호하는 방식으로 코드 정리.
+    * 2020-02-06 저녁 9시에 2020-02-15에 스터디 할 문제 선택.
+    * Info
+        * [LeetCode](https://leetcode.com/)
+        * [백준](https://www.acmicpc.net/)
+        * [알고리즘 해결전략 - 종만북](http://www.yes24.com/Product/Goods/8006522?scode=029)
