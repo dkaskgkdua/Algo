@@ -25,3 +25,7 @@
 * [Lv2 [3차]파일명 정리](https://programmers.co.kr/learn/courses/30/lessons/17686) - [CODE](./LEVEL2/\[3차\]파일명 정리/Solution.java)
 
 ## 3-1 2020-02-15
+* [Lv2 [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) -[CODE](./LEVEL2/3차n진수게임/Solution.java)
+* [Lv2 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) - [CODE](./LEVEL2/폰켓몬/Solution.java)
+* [Lv2 짝지어 제거하기 ](https://programmers.co.kr/learn/courses/30/lessons/12973) - [CODE](./LEVEL2/짝지어제거하기/Solution.java)
+* [Lv2 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) - [CODE](./LEVEL2/가장큰정사각형찾기/Solution3.java)
