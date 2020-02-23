@@ -6,16 +6,13 @@
 # *현재 진행 상황
 
 ## 3기 진행중
-* Lv1########## - Lv2#########0 - Lv30000000000 - Lv40000000000 - Lv50000000000
+* Lv1########## - Lv2########## - Lv30000000000 - Lv40000000000 - Lv50000000000
+------------------------------------> Lv3 0/43 완료
 
-* 투표 
-    * github 자료 공유 - 현재 대로 코드 공유 vs 웹사이트 코드 이용 vs 기타 의견
-
-* 3-2일정 2020-02-16 ~ 2020-02-22 : 2020-02-22 토 AM 90:00 온라인
-    * [Lv2 [3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
-    * [Lv2 JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
-    * [Lv2 [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
-    * [Lv2 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
+* 3-3일정 2020-02-23 ~ 2020-02-29 : 2020-02-29 토 AM 90:00 온라인
+    * [Lv3 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+    * [Lv3 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
+    * [Lv3 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)
 ---
 
 
@@ -58,3 +55,12 @@
         * [LeetCode](https://leetcode.com/)
         * [백준](https://www.acmicpc.net/)
         * [알고리즘 해결전략 - 종만북](http://www.yes24.com/Product/Goods/8006522?scode=029)
+
+* 3-2일정 2020-02-16 ~ 2020-02-22 : 2020-02-22 토 AM 90:00 온라인
+    * [Lv2 [3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+    * [Lv2 JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
+    * [Lv2 [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+    * [Lv2 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
+
+    * 투표 
+        * github 자료 공유 - 현재 대로 코드 공유하기로 결정
