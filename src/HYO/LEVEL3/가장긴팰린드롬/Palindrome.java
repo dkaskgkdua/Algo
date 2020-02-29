@@ -1,6 +1,6 @@
 package programmers.level3;
 
-// 완전탐색,? - 가장 긴 팰린드롬
+// 완전탐색 - 가장 긴 팰린드롬
 // Programmers Lv.3
 public class Solution {
 
@@ -22,27 +22,41 @@ public class Solution {
         return max;
     }
 
+    public static int palindromeMaxLength(String s, int left, int right) {
+        int L = left; int R = right;
+        while( L >=0 && R < s.length() && s.charAt(L) == s.charAt(R) ) {
+            L--;
+            R++;
+        }
+
+        return R-L-1;
+    }
+
     public static int solution(String s) {
         int length = s.length();
 
-        if (length == 0)   return 0;
-        if (length == 1)   return 1;
+        //if (length == 0)   return 0;
+        //if (length == 1)   return 1;
 
-        int left_max = 1; int right_max = 1;
-        for (int idx = length; idx >= 0; idx--) {
-            left_max = findMax(s.substring(0,idx),left_max);
-            right_max = findMax(s.substring(idx,length),right_max);
+        //int left_max = 1; int right_max = 1;
+        int len = 1;
+        for (int i = length; i >= 0; i--) {
+            //left_max = findMax(s.substring(0,idx),left_max);
+            //right_max = findMax(s.substring(idx,length),right_max);
+
+            len = Math.max(len,palindromeMaxLength(s,i,i)); // palindrome이 홀수일때 길이
+            len = Math.max(len,palindromeMaxLength(s,i,i+1));   // palindrome이 짝수일때 길이
         }
 
-        return Math.max(left_max, right_max);
+        return len;
     }
 
     public static void main(String[] args) {
-        //String s = "abcdcba";
+        String s = "abcdcba";
         //String s = "abacde";
         //String s = "aba";
         // String s = "yeiwabba";
-        String s = "ddaaddiayyyyuuoqzlxi";
+        //String s = "ddaaddiayyyyuuoqzlxi";
 
         //System.out.println(isPalindrome("abbba"));
         //System.out.println(s.length()/2);
