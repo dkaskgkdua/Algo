@@ -1,8 +1,5 @@
 // https://programmers.co.kr/learn/courses/30/lessons/12927#
-/*
-    효율설 테스트 1, 2번 실패
- */
- 
+
 import java.util.Arrays;
 
 class Solution2 {
@@ -31,8 +28,8 @@ class Solution2 {
         return getTiredness(result);
     }
     
-    int getTiredness(int[] works) {
-        int sum = 0;
+    long getTiredness(int[] works) {
+        long sum = 0;
         for (int work : works) {
             sum += work * work;
         }
