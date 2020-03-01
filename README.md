@@ -3,12 +3,12 @@
 
 # *현재 진행 상황
 ## 3기 진행중 
-* Lv1########## - Lv2########## - Lv30000000000 - Lv40000000000 - Lv50000000000 Lv3 0/43 완료
+* Lv1########## - Lv2########## - Lv30000000000 - Lv40000000000 - Lv50000000000 Lv3 3/43(6%) 완료
 
-* 3-3일정 2020-02-23 ~ 2020-02-29 : 2020-02-29 토 AM 90:00 온라인
-    * [Lv3 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
-    * [Lv3 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
-    * [Lv3 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)
+* 3-4일정 2020-03-01 ~ 2020-03-07 : 2020-03-07 토 AM 90:00 온라인
+    * [Lv3 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+    * [Lv3 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
+    * [Lv3 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
 ---
 
 
@@ -60,3 +60,8 @@
 
     * 투표 
         * github 자료 공유 - 현재 대로 코드 공유하기로 결정
+
+* 3-3일정 2020-02-23 ~ 2020-02-29 : 2020-02-29 토 AM 90:00 온라인
+    * [Lv3 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+    * [Lv3 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
+    * [Lv3 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)
