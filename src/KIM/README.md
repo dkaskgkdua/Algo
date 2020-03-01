@@ -40,3 +40,8 @@
 * [Lv3 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [CODE](./LEVEL3/네트워크/Solution.java)
 * [Lv3 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)  - [CODE](./LEVEL3/가장긴팰린드롬/Solution.java)
 * [Lv3 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)  - [CODE](./LEVEL3/야근지수/Solution.java)
+
+## 3-4 2020-03-07
+* [Lv3 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) - [CODE](./LEVEL3/디스크컨트롤러/Solution.java)
+* [Lv3 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) - [CODE](./LEVEL3/단어변환/Solution.java)
+* [Lv3 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) - [CODE](./LEVEL3/이중우선순위큐/Solution.java)
