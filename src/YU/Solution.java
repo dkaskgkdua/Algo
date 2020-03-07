@@ -1,5 +1,0 @@
-package YU;
-
-class Solution {
-
-}
