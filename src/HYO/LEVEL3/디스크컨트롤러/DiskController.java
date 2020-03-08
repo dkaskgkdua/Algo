@@ -1,68 +1,79 @@
 package programmers.level3;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.PriorityQueue;
+import java.util.*;
 
+// Heap - 디스크 컨트롤러
+// Programmers Lv.3
 public class DiskController {
     static class Disk implements Comparable<Disk> {
-        int start;
-        int time;
-        public Disk(int start, int time) {
-            this.start = start;
-            this.time = time;
+        int requestTime;
+        int taskTime;
+        public Disk(int requestTime, int taskTime) {
+            this.requestTime = requestTime;
+            this.taskTime = taskTime;
         }
 
         @Override
         public int compareTo(Disk o) {
-            if( this.time >= o.time ) // 오름차순
-                return this.start - o.start;
-            return this.time - o.time;
+            return this.taskTime - o.taskTime;
         }
     }
 
     public static int solution(int[][] jobs) {
         int len = jobs.length;
 
-        Arrays.sort(jobs, (o1,o2) -> o1[0] - o2[0]);
 
-        PriorityQueue<Disk> pq = new PriorityQueue<>();
+        Arrays.sort(jobs, (o1,o2) ->
+                o1[1] == o2[1] ? o1[1] - o2[1] : o1[0] - o2[0] ); // 요청 시간([0])에 대하여 오름차순 정렬( 요청 시간이 동일한 경우, 작업 시간에 따라 오름차순 정렬)
+        List<Disk> jobList = new ArrayList<>();
         for (int i = 0; i < len; i++) {
-            pq.add(new Disk(jobs[i][0], jobs[i][1]));
+            jobList.add(new Disk(jobs[i][0], jobs[i][1]));
         }
 
-        Disk first = pq.poll();
-        int prev_end = first.start + first.time;
-        int sum = first.time;
+        PriorityQueue<Disk> waitingJob = new PriorityQueue<>(); // 대기 큐
+        int prev_end = 0;
+        int sum = 0;
+        while( !jobList.isEmpty() || !waitingJob.isEmpty() ) {
+            boolean isNew = false;
 
-        while( !pq.isEmpty() ) {
-            Arrays.sort(jobs, (o1,o2) -> o1[0] - o2[0]);
+            // 요청 시간이 이전에 끝난 시간보다 더 크면 waiting이 아님.
+            Iterator<Disk> iter = jobList.iterator();
+            while( iter.hasNext() ) {
+                Disk job = iter.next();
+                if( job.requestTime > prev_end ) break;
 
-            Disk now = pq.poll();
-            int start = now.start;
-            int time = now.time;
+                waitingJob.add(job);
+                iter.remove();
+            }
 
-            if( prev_end > start ) {
-                //System.out.println("sum: " + sum);
-                //System.out.println("prev_end: " + prev_end);
-                sum += ((prev_end-start) + time);
-                prev_end += time;
+            // 대기 요청이 없으면 가장 먼저 들어온 작업 수행!
+            if( waitingJob.size() == 0 ) {
+                waitingJob.add(jobList.get(0));
+                jobList.remove(0);
+
+                isNew = true;
+            }
+
+            Disk wJob = waitingJob.poll();
+            // 기존에 대기하던 작업과 다른 새 작업은 계산 방법이 다르다.
+            if( isNew ) {
+                sum += wJob.taskTime;
+                prev_end = wJob.requestTime + wJob.taskTime;
 
             } else {
-                sum += time;
-                prev_end = start + time;
+                sum += ((prev_end-wJob.requestTime) + wJob.taskTime);
+                prev_end += wJob.taskTime;
 
             }
         }
-        System.out.println(sum);
 
         return (int) sum/len;
     }
 
     public static void main(String[] args) {
         //int[][] jobs = {{0, 3}, {1, 9}, {2, 6}};
-        //int[][] jobs = {{1, 3}, {1, 9}, {2, 6}};
-        int[][] jobs = {{10, 3}, {1, 9}, {2, 6}};
+        int[][] jobs = {{1, 3}, {1, 9}, {2, 6}};
+        //int[][] jobs = {{10, 3}, {1, 9}, {2, 6}};
 
         System.out.println(solution(jobs));
     }
