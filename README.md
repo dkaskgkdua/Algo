@@ -1,14 +1,17 @@
 # Algo - 알고리즘 스터디 저장소 [programmers](https://programmers.co.kr/learn/challenges)
 
-
 # *현재 진행 상황
 ## 3기 진행중 
-* Lv1########## - Lv2########## - Lv30000000000 - Lv40000000000 - Lv50000000000 Lv3 3/43(6%) 완료
+* Lv1########## - Lv2########## - Lv3#000000000 - Lv40000000000 - Lv50000000000 Lv3 6/43(13%) 완료
 
-* 3-4일정 2020-03-01 ~ 2020-03-07 : 2020-03-07 토 AM 90:00 온라인
-    * [Lv3 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
-    * [Lv3 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
-    * [Lv3 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+* 3-5일정 2020-03-08 ~ 2020-03-14
+    * 그 동안 못해던 부분 정리
+    * 시즌 첫 주차 스터디 문제를 선정하지 않고 시즌 마지막 주에 문제를 선정하여 불필요한 온라인 모임을 하지 않음.
+
+* 4-1일정 2020-03-15 ~ 2020-03-21 : 2020-03-21 토 AM 90:00 온라인
+    * [Lv3 타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
+    * [Lv3 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+    * [Lv3 하노이탑](https://programmers.co.kr/learn/courses/30/lessons/12946)
 ---
 
 
@@ -65,3 +68,8 @@
     * [Lv3 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
     * [Lv3 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
     * [Lv3 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)
+
+* 3-4일정 2020-03-01 ~ 2020-03-07 : 2020-03-07 토 AM 90:00 온라인
+    * [Lv3 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+    * [Lv3 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
+    * [Lv3 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
