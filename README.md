@@ -2,16 +2,13 @@
 
 # *현재 진행 상황
 ## 3기 진행중 
-* Lv1########## - Lv2########## - Lv3#000000000 - Lv40000000000 - Lv50000000000 Lv3 6/43(13%) 완료
+* Lv1########## - Lv2########## - Lv3##00000000 - Lv40000000000 - Lv50000000000 Lv3 6/43(13%) 완료
 
-* 3-5일정 2020-03-08 ~ 2020-03-14
-    * 그 동안 못해던 부분 정리
-    * 시즌 첫 주차 스터디 문제를 선정하지 않고 시즌 마지막 주에 문제를 선정하여 불필요한 온라인 모임을 하지 않음.
 
-* 4-1일정 2020-03-15 ~ 2020-03-21 : 2020-03-21 토 AM 90:00 온라인
-    * [Lv3 타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
-    * [Lv3 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
-    * [Lv3 하노이탑](https://programmers.co.kr/learn/courses/30/lessons/12946)
+* 4-3일정 2020-03-29 ~ 2020-04-04 : 2020-04-04 토 AM 90:00 온라인
+    * [Lv3 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+    * [Lv3 최고의집합](https://programmers.co.kr/learn/courses/30/lessons/12938)
+    * [Lv3 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
 ---
 
 
@@ -43,6 +40,7 @@
     * [Lv2 [1차]뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677), [Lv2 [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680), [Lv2 [3차]파일명 정리](https://programmers.co.kr/learn/courses/30/lessons/17686)
 ---
 
+
 ## 3기
 * 3-1 2020-02-07 ~ 2020-02-15
     * [Lv2 [3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687), [Lv2 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845), [Lv2 짝지어 제거하기 ](https://programmers.co.kr/learn/courses/30/lessons/12973), [Lv2 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
@@ -73,3 +71,22 @@
     * [Lv3 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
     * [Lv3 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
     * [Lv3 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+
+* 3-5일정 2020-03-08 ~ 2020-03-14
+    * 그 동안 못해던 부분 정리
+    * 시즌 첫 주차 스터디 문제를 선정하지 않고 시즌 마지막 주에 문제를 선정하여 불필요한 온라인 모임을 하지 않음.
+
+## 4기
+* 김봉한 멤버의 건강상의 이유로 다음주로 스터디 미뤄짐 + 3문제 추가함
+* 4-1일정 2020-03-15 ~ 2020-03-21 : 2020-03-21 토 AM 90:00 온라인 
+    * [Lv3 타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
+    * [Lv3 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+    * [Lv3 하노이탑](https://programmers.co.kr/learn/courses/30/lessons/12946)
+
+* 4-2일정 2020-03-22 ~ 2020-03-28 : 2020-03-28 토 AM 90:00 온라인 
+    * [Lv3 타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104) 
+    * [Lv3 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+    * [Lv3 하노이탑](https://programmers.co.kr/learn/courses/30/lessons/12946)
+    * [Lv3 브라이언의 고민](https://programmers.co.kr/learn/courses/30/lessons/1830) -> 번외 문제로 분류
+    * [Lv3 멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) -> 번외 문제로 분류
+    * [Lv3 순위](https://programmers.co.kr/learn/courses/30/lessons/49191) -> 번외 문제로 분류
