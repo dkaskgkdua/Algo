@@ -5,10 +5,10 @@
 * Lv1########## - Lv2########## - Lv3##00000000 - Lv40000000000 - Lv50000000000 Lv3 6/43(13%) 완료
 
 
-* 4-3일정 2020-03-29 ~ 2020-04-04 : 2020-04-04 토 AM 90:00 온라인
-    * [Lv3 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
-    * [Lv3 최고의집합](https://programmers.co.kr/learn/courses/30/lessons/12938)
-    * [Lv3 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+* 4-4일정 2020-04-05 ~ 2020-04-11 : 2020-04-11 토 AM 11:00 온라인
+    * [Lv3 배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
+    * [Lv3 섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
+    * [Lv3 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 ---
 
 
@@ -90,3 +90,9 @@
     * [Lv3 브라이언의 고민](https://programmers.co.kr/learn/courses/30/lessons/1830) -> 번외 문제로 분류
     * [Lv3 멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) -> 번외 문제로 분류
     * [Lv3 순위](https://programmers.co.kr/learn/courses/30/lessons/49191) -> 번외 문제로 분류
+
+
+* 4-3일정 2020-03-29 ~ 2020-04-04 : 2020-04-04 토 AM 09:00 온라인
+    * [Lv3 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+    * [Lv3 최고의집합](https://programmers.co.kr/learn/courses/30/lessons/12938)
+    * [Lv3 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
