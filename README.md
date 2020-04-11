@@ -5,10 +5,10 @@
 * Lv1########## - Lv2########## - Lv3####000000 - Lv40000000000 - Lv50000000000 Lv3 18/43(41%) 완료
 
 
-* 4-4일정 2020-04-05 ~ 2020-04-11 : 2020-04-11 토 AM 09:00 온라인
-    * [Lv3 배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
-    * [Lv3 섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
-    * [Lv3 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
+* 4-5일정 2020-04-12 ~ 2020-04-18 : 2020-04-18 토 AM 09:00 온라인
+    * [Lv3 N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+    * [Lv3 2 X n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
+    * [Lv3 종이접기](https://programmers.co.kr/learn/courses/30/lessons/62049)
 ---
 
 
@@ -96,3 +96,11 @@
     * [Lv3 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
     * [Lv3 최고의집합](https://programmers.co.kr/learn/courses/30/lessons/12938)
     * [Lv3 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+
+* 4-4일정 2020-04-05 ~ 2020-04-11 : 2020-04-11 토 AM 09:00 온라인
+    * [Lv3 배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
+    * [Lv3 섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
+    * [Lv3 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
+
+
+
