@@ -18,16 +18,55 @@ Kruskal 알고리즘 동작
 3. 해당 간선을 현재의 MST(최소 비용 신장 트리)의 집합에 추가한다.
 
 [출처 및 이 외 자세한 내용](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
+[동영상 강의](https://www.youtube.com/watch?v=LQ3JHknGy8c&t=418s)
 */
 
+import java.util.Comparator;
+import java.util.Arrays;
+
 class Solution {
+    // 부모 노드를 찾는 함수
+    public int getParent(int parent[], int x) {
+        if(parent[x] == x) return x;
+        return parent[x] = getParent(parent, parent[x]);
+    }
+
+    // 두 부모 노드를 합치는 함수
+    int unionParent(int parent[], int a, int b) {
+        a = getParent(parent, a);
+        b = getParent(parent, b);
+        if(a < b) return parent[b] = a;
+        else return parent[a] = b;
+    }
+
+    // 같은 부모를 가지는지 확인
+    boolean findParent(int parent[], int a, int b) {
+        a = getParent(parent, a);
+        b = getParent(parent, b);
+        if(a == b) return true;
+        else return false;
+    }
+
     public int solution(int n, int[][] costs) {
         int answer = 0;
-        // 다리 건설에 필요한 최소 비용 구하기
+        
+        // 비용을 기준으로 내림차순으로 정렬
+        Arrays.sort(costs, Comparator.comparingInt(o1 -> o1[2]));
 
-        // n : 섬의 개수ㄴㄴ
-        // costs : 섬1, 섬2, 섬1과 섬2 사이의 다시 건설 비용
-        // costs 길이는 ((n - 1) * n) / 2 이하이다.
+        // 각 정점이 포함된 그래프가 어디인지 저장
+        int[] parent = new int[n];
+        for(int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+
+        for(int i = 0; i < costs.length; i++) {
+            // 사이클이 발생하지 않는 경우, 그래프에 포함
+            if(!findParent(parent, costs[i][0], costs[i][1])) {
+                answer += costs[i][2];
+                unionParent(parent, costs[i][0], costs[i][1]);
+            }
+        }
+
         return answer;
     }
 }
