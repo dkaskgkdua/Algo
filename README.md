@@ -1,16 +1,14 @@
 # Algo - 알고리즘 스터디 저장소 [programmers](https://programmers.co.kr/learn/challenges)
 
 # *현재 진행 상황
-## 4기 진행중 
-* Lv1########## - Lv2########## - Lv3####000000 - Lv40000000000 - Lv50000000000 Lv3 18/43(41%) 완료
+## 5기 진행중 
+* Lv1########## - Lv2########## - Lv3####000000 - Lv40000000000 - Lv50000000000 Lv3 21/43(48%) 완료
 
-
-* 4-5일정 2020-04-12 ~ 2020-04-18 : 2020-04-18 토 AM 09:00 온라인
-    * [Lv3 N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
-    * [Lv3 2 X n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
-    * [Lv3 종이접기](https://programmers.co.kr/learn/courses/30/lessons/62049)
+* 5-1일정 2020-04-26 ~ 2020-05-02 : 2020-05-02 토 AM 09:00 온라인
+    * [Lv3 \[1차\] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
+    * [Lv3 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+    * [Lv3 거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)
 ---
-
 
 # 지난 일정
 ## 1기
@@ -103,4 +101,7 @@
     * [Lv3 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 
 
-
+* 4-5일정 2020-04-12 ~ 2020-04-18 : 2020-04-18 토 AM 09:00 온라인
+    * [Lv3 N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+    * [Lv3 2 X n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
+    * [Lv3 종이접기](https://programmers.co.kr/learn/courses/30/lessons/62049)
