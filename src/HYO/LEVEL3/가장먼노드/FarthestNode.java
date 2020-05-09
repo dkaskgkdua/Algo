@@ -26,25 +26,29 @@ public class FarthestNode {
         Queue<Integer> nodes = new LinkedList<Integer>();
         nodes.add(1);
 
+        int max = 0;
         while(!nodes.isEmpty()) {
             int i = nodes.poll();
+            //System.out.println("i: " + i);
 
             for (int j = 2; j <= n; j++) {
                 if( dist[j] == 0 && map[i][j] ) {
                     dist[j] = dist[i] + 1;
                     nodes.add(j);
+                    max = Math.max(dist[j],max);
+                    //System.out.println(Arrays.toString(dist));
                 }
             }
         }
 
-        Arrays.sort(dist);
-        int i = dist.length-1;
-        for( ; i>0; --i) {
-            if( dist[i] != dist[i-1] )
-                break;
+        //System.out.println(Arrays.toString(dist));
+        int answer = 0;
+        for (int i : dist) {
+            if( max == i )
+                answer ++;
         }
 
-        return dist.length - i;
+        return answer;
     }
 
     public static void main(String[] args) {
