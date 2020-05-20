@@ -2,12 +2,12 @@
 
 # *현재 진행 상황
 ## 5기 진행중 
-* Lv1########## - Lv2########## - Lv3####000000 - Lv40000000000 - Lv50000000000 Lv3 21/43(48%) 완료
+* Lv1########## - Lv2########## - Lv3######0000 - Lv40000000000 - Lv50000000000 Lv3 27/43(63%) 완료
 
-* 5-1일정 2020-04-26 ~ 2020-05-02 : 2020-05-02 토 AM 09:00 온라인
-    * [Lv3 \[1차\] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
-    * [Lv3 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
-    * [Lv3 거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)
+* 5-3일정 2020-05-16 ~ 2020-05-23 : 2020-05-23 토 AM 09:00 온라인
+    * [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+    * [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
+    * [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)
 ---
 
 # 지난 일정
@@ -105,3 +105,13 @@
     * [Lv3 N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
     * [Lv3 2 X n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
     * [Lv3 종이접기](https://programmers.co.kr/learn/courses/30/lessons/62049)
+
+* 5-1일정 2020-04-26 ~ 2020-05-09 : 2020-05-09 토 AM 09:00 온라인
+    * [Lv3 \[1차\] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
+    * [Lv3 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+    * [Lv3 거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)
+    
+* 5-2일정 2020-05-09 ~ 2020-05-16 : 2020-05-16 토 AM 09:00 온라인
+    * [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)
+    * [저울](https://programmers.co.kr/learn/courses/30/lessons/42886)
+    * [[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
